@@ -1,7 +1,10 @@
-<h1>
-	<img src="images/Rahool_App_Icon.jpg" width="65" style="vertical-align: middle;">
-	Rahool
-</h1>
+<table>
+		<tr>
+	<td><img src="images/Rahool_App_Icon.jpg" width="55""></td>
+	<td><h1>Rahool</h1></td>
+			</tr>
+	</table>
+
 
 ![Rahool Baner](images/Rahool_baner.png)
 
