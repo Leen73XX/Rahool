@@ -1,5 +1,5 @@
 # Rahool
-
+![Rahool Baner](images/Rahool_baner.png)
 Rahool is an interactive coding education application designed to make learning programming more engaging, accessible, and culturally relevant for Arabic-speaking learners.
 
 The app combines block-based coding, gamification, interactive missions, and Saudi-inspired environments to help beginners develop programming logic through exploration and practice.
