@@ -1,4 +1,6 @@
-# Rahool
+<h1>
+	<img src="images/Rahool_App_Icon.jpg" width="65">
+</h1>
 ![Rahool Baner](images/Rahool_baner.png)
 Rahool is an interactive coding education application designed to make learning programming more engaging, accessible, and culturally relevant for Arabic-speaking learners.
 
