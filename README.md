@@ -1,5 +1,5 @@
 <h1>
-	<img src="images/Rahool_App_Icon.jpg" width="65"> Rahool
+	<img src="images/Rahool_App_Icon.jpg" width="65" style="vertical-align: middle;"> Rahool
 </h1>
 
 ![Rahool Baner](images/Rahool_baner.png)
@@ -40,12 +40,13 @@ Rahool addresses this challenge by providing an immersive learning environment w
 
 ##  App Screenshots 📱
 
-![Rahool Home Page](images/home_page.jpeg)
-![Rahool Alaula map](images/Alaula_map.jpeg)
-![Rahool Redsea](images/Redsea_map.jpeg)
-![Rahool Alqidya map](images/Alqudia_map.jpeg)
-![Rahool mission](images/mission.jpeg)
-		
+<p align="center">
+	<img src="images/home_page.jpeg" width="220">
+	<img src="images/Alaula_map.jpeg" width="220">
+	<img src="images/Redsea_map.jpeg" width="220">
+	<img src="images/Alqudia_map.jpeg" width="220">
+	<img src="images/mission.jpeg" width="220">
+</p>	
 ⸻
 
 #  Rahool on Apple Vision Pro 🥽
@@ -64,7 +65,7 @@ The Vision Pro version brings Rahool’s educational experience into spatial com
 
 ## Apple Vision Pro Screenshots
 
-![Rahool VisionPro ](images/AVisionPro_mission.png)
+![Rahool VisionPro](images/VisionPro_mission.png)
 
 ⸻
 
@@ -101,4 +102,5 @@ Future versions of Rahool aim to include:
 
 ⸻
 ## App Store
-![Rahool App Store](images/Appstore_QR.png)
+<img src="images/Appstore_QR.png" width="150">
+
