@@ -37,16 +37,17 @@ Rahool addresses this challenge by providing an immersive learning environment w
    Provides immediate feedback during coding challenges to help learners identify mistakes and improve their skills.
 ### 🥽 Immersive Learning
   Rahool expands the traditional mobile learning experience into spatial computing through a version developed for Apple Vision Pro.
+
 ⸻
 
 ##  App Screenshots 📱
 
 <p align="center">
-	<img src="images/home_page.jpeg" width="180">
-	<img src="images/Alaula_map.jpeg" width="180">
-	<img src="images/Redsea_map.jpeg" width="180">
-	<img src="images/Alqudia_map.jpeg" width="180">
-	<img src="images/mission.jpeg" width="180">
+	<img src="images/home_page.jpeg" width="150">
+	<img src="images/Alaula_map.jpeg" width="150">
+	<img src="images/Redsea_map.jpeg" width="150">
+	<img src="images/Alqudia_map.jpeg" width="150">
+	<img src="images/mission.jpeg" width="150">
 </p>	
 ⸻
 
@@ -104,4 +105,4 @@ Future versions of Rahool aim to include:
 ⸻
 ## App Store
 <img src="images/Appstore_QR.png" width="150">
-
+Note: Rahool is temporarily unavailable on App Store while we work on updates and improvements. it will be back soon!
