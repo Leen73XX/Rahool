@@ -42,11 +42,11 @@ Rahool addresses this challenge by providing an immersive learning environment w
 ##  App Screenshots 📱
 
 <p align="center">
-	<img src="images/home_page.jpeg" width="200">
-	<img src="images/Alaula_map.jpeg" width="200">
-	<img src="images/Redsea_map.jpeg" width="200">
-	<img src="images/Alqudia_map.jpeg" width="200">
-	<img src="images/mission.jpeg" width="200">
+	<img src="images/home_page.jpeg" width="180">
+	<img src="images/Alaula_map.jpeg" width="180">
+	<img src="images/Redsea_map.jpeg" width="180">
+	<img src="images/Alqudia_map.jpeg" width="180">
+	<img src="images/mission.jpeg" width="180">
 </p>	
 ⸻
 
