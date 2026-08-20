@@ -1,5 +1,6 @@
 <h1>
-	<img src="images/Rahool_App_Icon.jpg" width="65" style="vertical-align: middle;"> Rahool
+	<img src="images/Rahool_App_Icon.jpg" width="65" style="vertical-align: middle;">
+	Rahool
 </h1>
 
 ![Rahool Baner](images/Rahool_baner.png)
@@ -41,11 +42,11 @@ Rahool addresses this challenge by providing an immersive learning environment w
 ##  App Screenshots 📱
 
 <p align="center">
-	<img src="images/home_page.jpeg" width="220">
-	<img src="images/Alaula_map.jpeg" width="220">
-	<img src="images/Redsea_map.jpeg" width="220">
-	<img src="images/Alqudia_map.jpeg" width="220">
-	<img src="images/mission.jpeg" width="220">
+	<img src="images/home_page.jpeg" width="200">
+	<img src="images/Alaula_map.jpeg" width="200">
+	<img src="images/Redsea_map.jpeg" width="200">
+	<img src="images/Alqudia_map.jpeg" width="200">
+	<img src="images/mission.jpeg" width="200">
 </p>	
 ⸻
 
