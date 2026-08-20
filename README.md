@@ -74,8 +74,8 @@ Rahool can be used independently for self-paced learning or integrated into educ
 
 Rahool has reached:
 
-### 354 organic downloads
-### ⭐ 4.8/5 rating
+### 354 organic downloads ⭐
+### 4.8/5 rating ⭐
 
 These results reflect early user engagement with Rahool’s approach to interactive programming education.
 
